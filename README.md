@@ -11,6 +11,7 @@ WebSockets are an alternative to HTTP communication in Web Application, they off
 To start setting up the project
 Step 1: Clone the repo
 git clone https://github.com/SAMBIT20/Chat-Websocket
+
 Step 2: cd into the cloned repo and run:
 
 npm install
